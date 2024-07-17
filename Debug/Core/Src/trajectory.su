@@ -1,0 +1,12 @@
+../Core/Src/trajectory.c:62:8:findMinimum	32	static
+../Core/Src/trajectory.c:75:8:xo0func	24	static
+../Core/Src/trajectory.c:81:8:yo0func	24	static
+../Core/Src/trajectory.c:87:8:xofunc	32	static
+../Core/Src/trajectory.c:101:8:yofunc	32	static
+../Core/Src/trajectory.c:115:8:xbfunc	48	static
+../Core/Src/trajectory.c:129:8:ybfunc	48	static
+../Core/Src/trajectory.c:143:8:xkfunc	32	static
+../Core/Src/trajectory.c:157:8:ykfunc	32	static
+../Core/Src/trajectory.c:171:6:trajectory	1192	static
+../Core/Src/trajectory.c:230:6:Vslet_Trajectory	0	static
+../Core/Src/trajectory.c:235:10:Get_point_traj	0	static

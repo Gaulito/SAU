@@ -1,0 +1,3 @@
+../Core/Src/hmc5883.c:15:6:hmc5883_init	5
+../Core/Src/hmc5883.c:61:6:hmc5883_read	1
+../Core/Src/hmc5883.c:75:8:hmc5883_getYaw	4

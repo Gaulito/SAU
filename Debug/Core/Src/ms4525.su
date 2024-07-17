@@ -1,0 +1,2 @@
+../Core/Src/ms4525.c:15:6:ms4525_init	8	static
+../Core/Src/ms4525.c:28:6:ms4525_read	40	static

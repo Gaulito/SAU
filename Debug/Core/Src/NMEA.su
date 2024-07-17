@@ -1,0 +1,3 @@
+../Core/Src/NMEA.c:37:5:decodeGGA	48	static
+../Core/Src/NMEA.c:203:5:decodeRMC	48	static
+../Core/Src/NMEA.c:311:5:getGPS	16	static

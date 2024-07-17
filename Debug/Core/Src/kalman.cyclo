@@ -1,0 +1,17 @@
+../Core/Src/kalman.c:30:10:simpleKalmanX	1
+../Core/Src/kalman.c:41:10:simpleKalmanY	1
+../Core/Src/kalman.c:52:10:simpleKalmanZ	1
+../Core/Src/kalman.c:66:10:simpleKalmanXE	1
+../Core/Src/kalman.c:77:10:simpleKalmanYE	1
+../Core/Src/kalman.c:88:10:simpleKalmanZE	1
+../Core/Src/kalman.c:102:10:simpleKalmanOMEGA_X	1
+../Core/Src/kalman.c:113:10:simpleKalmanOMEGA_Y	1
+../Core/Src/kalman.c:124:10:simpleKalmanOMEGA_Z	1
+../Core/Src/kalman.c:136:11:simpleKalmanYAW	1
+../Core/Src/kalman.c:147:10:simpleKalmanVxGPS	1
+../Core/Src/kalman.c:158:10:simpleKalmanVyGPS	1
+../Core/Src/kalman.c:169:10:simpleKalmanVzGPS	1
+../Core/Src/kalman.c:183:6:getKalmanA	1
+../Core/Src/kalman.c:190:6:getKalmanCSE	1
+../Core/Src/kalman.c:197:6:getKalmanOMEGA	1
+../Core/Src/kalman.c:204:6:getKalmanVGPS	1
